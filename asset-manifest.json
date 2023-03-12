@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stackfusion-riyaz/static/css/main.eec91567.css",
+    "main.js": "/stackfusion-riyaz/static/js/main.a4728b91.js",
+    "index.html": "/stackfusion-riyaz/index.html",
+    "main.eec91567.css.map": "/stackfusion-riyaz/static/css/main.eec91567.css.map",
+    "main.a4728b91.js.map": "/stackfusion-riyaz/static/js/main.a4728b91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec91567.css",
+    "static/js/main.a4728b91.js"
+  ]
+}
